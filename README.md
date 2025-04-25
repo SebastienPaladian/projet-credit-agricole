@@ -7,7 +7,7 @@ Ce projet a été réalisé dans un contexte professionnel et a pour but d’exp
 - construire un **dashboard Power BI** pour visualiser les profils types,
 - permettre aux équipes marketing et commerciales d’adapter leur stratégie.
 
----
+
 
 ## 🧰 Outils utilisés
 | Outil       | Utilisation principale                              |
@@ -17,10 +17,10 @@ Ce projet a été réalisé dans un contexte professionnel et a pour but d’exp
 | **Excel**   | Source des données clients (non incluse ici)         |
 | **PowerPoint** (optionnel) | Présentation synthétique du projet  |
 
----
 
 
----
+
+
 
 ## 🔍 Étapes de l’analyse
 
@@ -34,7 +34,7 @@ Ce projet a été réalisé dans un contexte professionnel et a pour but d’exp
 
 📄 Voir le fichier : `credit_agricole_segmentation_clients.sql`
 
----
+
 
 ### 2. Visualisation dans Power BI
 Le dashboard permet :
@@ -45,7 +45,7 @@ Le dashboard permet :
 🖼️ **(Ajoute ici une capture dans `img/` pour un aperçu visuel)**  
 `img/dashboard_preview.png`
 
----
+
 
 ## 💡 Résultats
 
