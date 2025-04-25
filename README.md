@@ -14,7 +14,7 @@ Ce projet a été réalisé dans un contexte professionnel et a pour but d’exp
 |-------------|------------------------------------------------------|
 | **SQL**     | Requêtes de segmentation, agrégation, filtrage       |
 | **Power BI**| Visualisation dynamique et filtrable des segments    |
-| **Excel**   | Source des données clients (non incluse ici)         |
+| **Excel**   | Source des données clients        |
 
 
 
@@ -44,6 +44,8 @@ Le dashboard permet :
 
 🖼️ **(Ajoute ici une capture dans `img/` pour un aperçu visuel)**  
 `img/dashboard_preview.png`
+![impression_ecran_dashbord_credit_agricole 1](https://github.com/user-attachments/assets/e876c89b-4597-4155-9f84-cf0c700cb5a6)
+![impression_ecran_dashbord_credit_agricole 2](https://github.com/user-attachments/assets/13bbf996-cffa-4523-bcdc-e5669403b210)
 
 
 
