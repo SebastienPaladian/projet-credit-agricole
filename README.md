@@ -15,7 +15,7 @@ Ce projet a été réalisé dans un contexte professionnel et a pour but d’exp
 | **SQL**     | Requêtes de segmentation, agrégation, filtrage       |
 | **Power BI**| Visualisation dynamique et filtrable des segments    |
 | **Excel**   | Source des données clients (non incluse ici)         |
-| **PowerPoint** (optionnel) | Présentation synthétique du projet  |
+
 
 
 
