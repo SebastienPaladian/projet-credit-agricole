@@ -42,8 +42,8 @@ Le dashboard permet :
 - De suivre les **KPIs clés** pour chaque profil : revenu moyen, ancienneté, nombre de produits
 - D’utiliser des **filtres dynamiques** (par région, âge, revenu...)
 
-🖼️ **(Ajoute ici une capture dans `img/` pour un aperçu visuel)**  
-`img/dashboard_preview.png`
+🖼️ **Aperçu visuel**  
+
 ![impression_ecran_dashbord_credit_agricole 1](https://github.com/user-attachments/assets/e876c89b-4597-4155-9f84-cf0c700cb5a6)
 ![impression_ecran_dashbord_credit_agricole 2](https://github.com/user-attachments/assets/13bbf996-cffa-4523-bcdc-e5669403b210)
 
